@@ -1,0 +1,207 @@
+Python practice questions
+
+Easy Level (1–40):
+
+1. Print Hello World → [HackerRank](https://www.hackerrank.com/challenges/py-hello-world/problem)
+
+2. Reading Raw Input → [HackerRank](https://www.hackerrank.com/challenges/input/problem)
+
+3. Python Arithmetic Operators → [HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+
+4. Python Division → [HackerRank](https://www.hackerrank.com/challenges/python-division/problem)
+
+5. Loops Practice → [HackerRank](https://www.hackerrank.com/challenges/python-loops/problem)
+
+6. Write a Function (Leap Year) → [HackerRank](https://www.hackerrank.com/challenges/write-a-function/problem)
+
+7. Print Function → [HackerRank](https://www.hackerrank.com/challenges/python-print/problem)
+
+8. Find Square of a Number → [InterviewBit](https://www.interviewbit.com/python-programming-exercises/)
+
+9. Convert Celsius to Fahrenheit → [InterviewBit](https://www.interviewbit.com/python-programming-exercises/)
+
+10. Swap Two Numbers → [InterviewBit](https://www.interviewbit.com/python-programming-exercises/)
+
+11. Check Even or Odd → [GFG](https://www.geeksforgeeks.org/python-program-to-check-if-a-number-is-odd-or-even/)
+
+12. Largest of Three Numbers → [GFG](https://www.geeksforgeeks.org/python-program-to-find-largest-of-three-numbers/)
+
+13. Sum of Digits → [GFG](https://www.geeksforgeeks.org/sum-of-digit-of-a-number-using-recursion/)
+
+14. Factorial using Recursion → [HackerRank](https://www.hackerrank.com/challenges/30-recursion/problem)
+
+15. Fibonacci using Recursion → [GFG](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+
+16. File Handling – Read File → [GFG](https://www.geeksforgeeks.org/reading-writing-text-files-python/)
+
+17. File Handling – Write File → [GFG](https://www.geeksforgeeks.org/reading-writing-text-files-python/)
+
+18. Exception Handling – Division by Zero → [CodeSignal](https://codesignal.com/) (search "ZeroDivision")
+
+19. Type Conversion – int to str → [HackerRank](https://www.hackerrank.com/challenges/python-string-formatting/problem)
+
+20. Absolute Value Function → [HackerRank](https://www.hackerrank.com/challenges/python-abs/problem)
+
+21. DefaultDict Tutorial → [HackerRank](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+
+22. OrderedDict Problem → [HackerRank](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+
+23. Counter Problem → [HackerRank](https://www.hackerrank.com/challenges/collections-counter/problem)
+
+24. Print Calendar Month → [GFG](https://www.geeksforgeeks.org/calendar-in-python/)
+
+25. Armstrong Number Check → [GFG](https://www.geeksforgeeks.org/program-for-armstrong-numbers/)
+
+26. Palindrome Number → [GFG](https://www.geeksforgeeks.org/python-program-to-check-if-a-string-is-palindrome-or-not/)
+
+27. Reverse a String → [InterviewBit](https://www.interviewbit.com/python-programming-exercises/)
+
+28. Length of a String → [HackerRank](https://www.hackerrank.com/challenges/python-len/problem)
+
+29. Count Vowels in String → [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+
+30. Remove Punctuation → [GFG](https://www.geeksforgeeks.org/python-remove-punctuation-from-string/)
+
+31. Find ASCII Value of Character → [GFG](https://www.geeksforgeeks.org/program-to-find-ascii-value-of-a-character/)
+
+32. Check Prime Number → [HackerRank](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+
+33. Print Multiplication Table → [InterviewBit](https://www.interviewbit.com/python-programming-exercises/)
+
+34. Simple Interest Calculation → [GFG](https://www.geeksforgeeks.org/program-for-simple-interest/)
+
+35. Compound Interest Calculation → [GFG](https://www.geeksforgeeks.org/python-program-for-compound-interest/)
+
+36. Calculate Average of List → [HackerRank](https://www.hackerrank.com/challenges/python-lists/problem)
+
+37. String Split and Join → [HackerRank](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+
+38. String Formatting → [HackerRank](https://www.hackerrank.com/challenges/python-string-formatting/problem)
+
+39. Text Wrap → [HackerRank](https://www.hackerrank.com/challenges/text-wrap/problem)
+
+40. Find the Runner-Up Score → [HackerRank](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+
+Intermediate Level (41–75):
+
+41. Nested Lists → [HackerRank](https://www.hackerrank.com/challenges/nested-list/problem)
+
+42. Finding the Percentage → [HackerRank](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+
+43. List Comprehensions → [HackerRank](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
+44. String Validators → [HackerRank](https://www.hackerrank.com/challenges/string-validators/problem)
+
+45. Alphabet Rangoli → [HackerRank](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
+
+46. Capitalize! → [HackerRank](https://www.hackerrank.com/challenges/capitalize/problem)
+
+47. itertools.permutations → [HackerRank](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+
+48. itertools.combinations → [HackerRank](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+
+49. itertools.product → [HackerRank](https://www.hackerrank.com/challenges/itertools-product/problem)
+
+50. itertools.groupby → [HackerRank](https://www.hackerrank.com/challenges/itertools-groupby/problem)
+
+51. Calendar Module → [HackerRank](https://www.hackerrank.com/challenges/calendar-module/problem)
+
+52. Exceptions Problem → [HackerRank](https://www.hackerrank.com/challenges/exceptions/problem)
+
+53. Decorators → [CodeWars](https://www.codewars.com/kata/54fb963d3fe32351f2000102)
+
+54. Regex Validate Email → [HackerRank](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
+
+55. Regex Validate Phone → [HackerRank](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
+
+56. Regex Detect Floating Point Number → [HackerRank](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+
+57. Regex Detect HTML Tags → [HackerRank](https://www.hackerrank.com/challenges/detect-html-tags/problem)
+
+58. Regex Hex Color Code → [HackerRank](https://www.hackerrank.com/challenges/hex-color-code/problem)
+
+59. Map and Lambda → [HackerRank](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+
+60. Reduce Function → [HackerRank](https://www.hackerrank.com/challenges/reduce-function/problem)
+
+61. Zipped → [HackerRank](https://www.hackerrank.com/challenges/zipped/problem)
+
+62. Athlete Sort → [HackerRank](https://www.hackerrank.com/challenges/python-sort-sort/problem)
+
+63. Any or All → [HackerRank](https://www.hackerrank.com/challenges/any-or-all/problem)
+
+64. ginortS (String Sort) → [HackerRank](https://www.hackerrank.com/challenges/ginorts/problem)
+
+65. Set Mutations → [HackerRank](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+
+66. Symmetric Difference → [HackerRank](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+
+67. Set .add() → [HackerRank](https://www.hackerrank.com/challenges/py-set-add/problem)
+
+68. Set .discard() remove() pop() → [HackerRank](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+
+69. Set .union() Operation → [HackerRank](https://www.hackerrank.com/challenges/py-set-union/problem)
+
+70. Set .intersection() Operation → [HackerRank](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+
+71. Set .difference() Operation → [HackerRank](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+
+72. Set .symmetric\_difference() Operation → [HackerRank](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+
+73. Polar Coordinates → [HackerRank](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+
+74. Complex Numbers → [HackerRank](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
+
+75. Power - Mod Power → [HackerRank](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
+
+Hard Level (76–100):
+
+76. Validating Postal Codes (Regex) → [HackerRank](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+
+77. Validating UID → [HackerRank](https://www.hackerrank.com/challenges/validating-uid/problem)
+
+78. Matrix Script → [HackerRank](https://www.hackerrank.com/challenges/matrix-script/problem)
+
+79. Compress the String! → [HackerRank](https://www.hackerrank.com/challenges/compress-the-string/problem)
+
+80. Incorrect Regex → [HackerRank](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+
+81. XML – Find the Score → [HackerRank](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
+
+82. XML2 – Find Maximum Depth → [HackerRank](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
+
+83. HTML Parser – Part 1 → [HackerRank](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
+
+84. HTML Parser – Part 2 → [HackerRank](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
+
+85. Detect Floating Point Exceptions → [HackerRank](https://www.hackerrank.com/challenges/py-exceptions/problem)
+
+86. Collections.deque → [HackerRank](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+
+87. Piling Up! → [HackerRank](https://www.hackerrank.com/challenges/piling-up/problem)
+
+88. Time Delta → [HackerRank](https://www.hackerrank.com/challenges/python-time-delta/problem)
+
+89. Calendar Time Conversion → [HackerRank](https://www.hackerrank.com/challenges/time-conversion/problem)
+
+90. Decorators 2 – Name Directory → [HackerRank](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
+
+91. Regex Substitution → [HackerRank](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
+
+92. Regex Grouping and Capturing → [HackerRank](https://www.hackerrank.com/challenges/re-group-groups/problem)
+
+93. Re.findall() & Re.finditer() → [HackerRank](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
+
+94. Re.start() & Re.end() → [HackerRank](https://www.hackerrank.com/challenges/re-start-re-end/problem)
+
+95. Validating Credit Card Numbers → [HackerRank](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
+
+96. Validating Roman Numerals → [HackerRank](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
+
+97. Regex Detect HTML Attributes → [HackerRank](https://www.hackerrank.com/challenges/detect-html-attributes/problem)
+
+98. XML XPath Queries → [Model Analytics](https://modelanalytics.com/)
+
+99. Custom Exception Handling (raise) → [GFG](https://www.geeksforgeeks.org/python-exception-handling/)
+
+100. File Handling Advanced Task – Copy Content → [GFG](https://www.geeksforgeeks.org/python-copy-files-from-one-directory-to-another/)
